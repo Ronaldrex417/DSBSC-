@@ -1,6 +1,3 @@
-<img width="1518" height="960" alt="Screenshot 2025-08-19 232342" src="https://github.com/user-attachments/assets/c576187f-4871-4c5e-9c37-7857f2b640a0" /># DSBSC
-
-
 EX NO: 2	DSB-SC-AM MODULATOR AND DEMODULATOR
 
 AIM:
